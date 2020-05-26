@@ -1,0 +1,43 @@
+<Encounters>
+     <Encounter id="01">
+		<EncounterName>Vampire01</EncounterName>
+		<EncounterModelName>blank</EncounterModelName>
+		<EncounterFunction>SellHealthForItem</EncounterFunction>
+		<EncounterArg1>01</EncounterArg1>
+		<EncounterArg2>30</EncounterArg2>
+		<EncounterText1>Welcome Wizard.</EncounterText1>
+		<EncounterText2>In exchange for some of your delicious fluids...</EncounterText2>
+		<EncounterText3>I'll give you a precious gift. (30 health for an item)</EncounterText3>		
+     </Encounter>
+     <Encounter id="02">
+		<EncounterName>Vampire02</EncounterName>
+		<EncounterModelName>blank</EncounterModelName>
+		<EncounterFunction>SellHealthForMana</EncounterFunction>
+		<EncounterArg1>50</EncounterArg1>
+		<EncounterArg2>40</EncounterArg2>
+		<EncounterText1>Welcome Wizard.</EncounterText1>
+		<EncounterText2>You have power that I need and I the same you.</EncounterText2>
+		<EncounterText3>How about a trade? (40 health to gain 50 max mana)</EncounterText3>		
+     </Encounter>
+     <Encounter id="03">
+		<EncounterName>Merchant01</EncounterName>
+		<EncounterModelName>blank</EncounterModelName>
+		<EncounterFunction>BuyItem</EncounterFunction>
+		<EncounterArg1>2</EncounterArg1>
+		<EncounterArg2>150</EncounterArg2>
+		<EncounterText1>Hello there versed traveller.</EncounterText1>
+		<EncounterText2>I have an excellent discount on an item, but there's a catch...</EncounterText2>
+		<EncounterText3>It's a suprise what you get! (150 gold for a random Item)</EncounterText3>		
+     </Encounter>
+     <Encounter id="04">
+		<EncounterName>Merchant02</EncounterName>
+		<EncounterModelName>blank</EncounterModelName>
+		<EncounterFunction>BuyItem</EncounterFunction>
+		<EncounterArg1>3</EncounterArg1>
+		<EncounterArg2>150</EncounterArg2>
+		<EncounterText1>Hello there, deep pockets.</EncounterText1>
+		<EncounterText2>Would you like to purchase a special item?</EncounterText2>
+		<EncounterText3>It's a great offer (150 gold for )</EncounterText3>		
+     </Encounter>
+ </Encounters>
+ 

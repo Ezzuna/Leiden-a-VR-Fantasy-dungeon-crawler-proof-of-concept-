@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 73a8e42de2fd6ee478d087faa7cf2495
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3356970750930178563
+    second: gui_battle_placement_0
+  - first:
+      213: -1556142635965221657
+    second: gui_battle_placement_1
+  - first:
+      213: -1039251824981431954
+    second: gui_battle_placement_2
+  - first:
+      213: -4889187015660574089
+    second: gui_battle_placement_3
+  - first:
+      213: -78292394472143233
+    second: gui_battle_placement_4
+  - first:
+      213: -524146120944681858
+    second: gui_battle_placement_5
+  - first:
+      213: 268022177417827320
+    second: gui_battle_placement_6
+  - first:
+      213: 2390023991395893630
+    second: gui_battle_placement_7
+  - first:
+      213: 6167834053612720700
+    second: gui_battle_placement_8
+  - first:
+      213: -4473078190092213193
+    second: gui_battle_placement_9
+  - first:
+      213: -5727633257249990396
+    second: gui_battle_placement_10
+  - first:
+      213: 8796341853988022701
+    second: gui_battle_placement_11
+  - first:
+      213: -5310420370826178537
+    second: gui_battle_placement_12
+  - first:
+      213: -3702718965863633279
+    second: gui_battle_placement_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_battle_placement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60d09359df0bd47b734e7e177b355d
+      internalID: 3356970750930178563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 364
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceabd49fee70a8848a458d7d5705c04a
+      internalID: -1556142635965221657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 396
+        width: 218
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd7f1591fa54944b31cd1579cb0e9f
+      internalID: -1039251824981431954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 470
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee7cdd0a4a28724899c05c717bd016c
+      internalID: -4889187015660574089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 441
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9979bd38b81e5748b989a153f256507
+      internalID: -78292394472143233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 401
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0170c7eef181438f6759052b8cac8
+      internalID: -524146120944681858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e1ed4ef53ec8c478c4f430221e9a7e
+      internalID: 268022177417827320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 253
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249aacd5692278145bde3ac17ae28956
+      internalID: 2390023991395893630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c0447d6b7ca24ab44d1cace4ce0c9
+      internalID: 6167834053612720700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 251
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7c6678aeb68ba4e9a5a2bdb7134355
+      internalID: -4473078190092213193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 266
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7ce14008622a41add58bddbaed985
+      internalID: -5727633257249990396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 265
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720b78ddea84b14ba5cda87b784f339
+      internalID: 8796341853988022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 204
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413cfffac0ff20c4ebb611da820355e0
+      internalID: -5310420370826178537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_battle_placement_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 179
+        width: 225
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e251d28eb3e4b4a908071e8908041f
+      internalID: -3702718965863633279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3db95324be816c42849cdd6290bf1b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

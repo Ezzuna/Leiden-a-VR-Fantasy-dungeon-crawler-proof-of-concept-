@@ -1,0 +1,27 @@
+<Spells>
+     <Spell id="01">
+         <spName>Firebolt</spName>
+         <spSlot>1</spSlot>
+         <spDamage>100.0</spDamage>
+         <spPrefab>Spell_Bolt01</spPrefab>
+         <spSize>1</spSize>
+         <spIntensity>1</spIntensity>
+         <spColour>red</spColour>
+         <spDescription>A standard, very typical firebolt</spDescription>
+         <spStoreCost>120</spStoreCost>
+         <spItemPool>1</spItemPool>
+     </Spell>
+	 <Spell id="02">
+         <spName>Frostbolt</spName>
+         <spSlot>1</spSlot>
+         <spDamage>100.0</spDamage>
+         <spPrefab>Spell_Bolt01</spPrefab>
+         <spSize>1</spSize>
+         <spIntensity>1</spIntensity>
+         <spColour>red</spColour>
+         <spDescription>A standard, very typical frostbolt, but cooler</spDescription>
+         <spStoreCost>120</spStoreCost>
+         <spItemPool>1</spItemPool>
+     </Spell>
+ </Spells>
+ 

@@ -1,0 +1,2002 @@
+<MapNodes>
+     		<Node id="01">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-163</NodePosX>
+         <NodePosY>176</NodePosY>
+     </Node>
+     		<Node id="02">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-178</NodePosX>
+         <NodePosY>153</NodePosY>
+     </Node>
+		<Node id="03">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-174</NodePosX>
+         <NodePosY>144</NodePosY>
+     </Node>
+		<Node id="04">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-138</NodePosX>
+         <NodePosY>155</NodePosY>
+     </Node>
+		<Node id="05">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-125</NodePosX>
+         <NodePosY>171</NodePosY>
+     </Node>
+		<Node id="06">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-126</NodePosX>
+         <NodePosY>129</NodePosY>
+     </Node>
+		<Node id="07">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-162</NodePosX>
+         <NodePosY>111</NodePosY>
+     </Node>
+		<Node id="08">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-143</NodePosX>
+         <NodePosY>96</NodePosY>
+     </Node>
+		<Node id="09">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-177</NodePosX>
+         <NodePosY>86</NodePosY>
+     </Node>
+		<Node id="10">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-134</NodePosX>
+         <NodePosY>75</NodePosY>
+     </Node>
+		<Node id="11">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-106</NodePosX>
+         <NodePosY>90</NodePosY>
+     </Node>
+     		<Node id="12">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-113</NodePosX>
+         <NodePosY>59</NodePosY>
+     </Node>
+		<Node id="13">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-181</NodePosX>
+         <NodePosY>51</NodePosY>
+     </Node>
+		<Node id="14">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-158</NodePosX>
+         <NodePosY>48</NodePosY>
+     </Node>
+		<Node id="15">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-102</NodePosX>
+         <NodePosY>148</NodePosY>
+     </Node>
+		<Node id="16">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-100</NodePosX>
+         <NodePosY>113</NodePosY>
+     </Node>
+		<Node id="17">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-134</NodePosX>
+         <NodePosY>28</NodePosY>
+     </Node>
+		<Node id="18">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-117</NodePosX>
+         <NodePosY>18</NodePosY>
+     </Node>
+		<Node id="19">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-158</NodePosX>
+         <NodePosY>5</NodePosY>
+     </Node>
+		<Node id="20">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-184</NodePosX>
+         <NodePosY>14</NodePosY>
+     </Node>
+		<Node id="21">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-136</NodePosX>
+         <NodePosY>-3</NodePosY>
+     </Node>
+     		<Node id="22">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-173</NodePosX>
+         <NodePosY>-9</NodePosY>
+     </Node>
+		<Node id="23">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-123</NodePosX>
+         <NodePosY>-20</NodePosY>
+     </Node>
+		<Node id="24">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-166</NodePosX>
+         <NodePosY>-27</NodePosY>
+     </Node>
+		<Node id="25">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-142</NodePosX>
+         <NodePosY>-41</NodePosY>
+     </Node>
+		<Node id="26">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-109</NodePosX>
+         <NodePosY>-53</NodePosY>
+     </Node>
+		<Node id="27">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-131</NodePosX>
+         <NodePosY>-62</NodePosY>
+     </Node>
+		<Node id="28">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-161</NodePosX>
+         <NodePosY>-62</NodePosY>
+     </Node>
+		<Node id="29">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-179</NodePosX>
+         <NodePosY>-61</NodePosY>
+     </Node>
+		<Node id="30">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-176</NodePosX>
+         <NodePosY>-94</NodePosY>
+     </Node>
+		<Node id="31">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-160</NodePosX>
+         <NodePosY>-111</NodePosY>
+     </Node>
+     		<Node id="32">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-176</NodePosX>
+         <NodePosY>-140</NodePosY>
+     </Node>
+		<Node id="33">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-161</NodePosX>
+         <NodePosY>-152</NodePosY>
+     </Node>
+		<Node id="34">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-148</NodePosX>
+         <NodePosY>-133</NodePosY>
+     </Node>
+		<Node id="35">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-132</NodePosX>
+         <NodePosY>-132</NodePosY>
+     </Node>
+		<Node id="36">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-124</NodePosX>
+         <NodePosY>-97</NodePosY>
+     </Node>
+		<Node id="37">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-101</NodePosX>
+         <NodePosY>-96</NodePosY>
+     </Node>
+		<Node id="38">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-113</NodePosX>
+         <NodePosY>-108</NodePosY>
+     </Node>
+		<Node id="39">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-134</NodePosX>
+         <NodePosY>-149</NodePosY>
+     </Node>
+		<Node id="40">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-143</NodePosX>
+         <NodePosY>-152</NodePosY>
+     </Node>
+		<Node id="41">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-113</NodePosX>
+         <NodePosY>-161</NodePosY>
+     </Node>
+     		<Node id="42">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-96</NodePosX>
+         <NodePosY>-165</NodePosY>
+     </Node>
+		<Node id="43">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-108</NodePosX>
+         <NodePosY>-186</NodePosY>
+     </Node>
+		<Node id="44">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-151</NodePosX>
+         <NodePosY>-185</NodePosY>
+     </Node>
+		<Node id="45">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-172</NodePosX>
+         <NodePosY>-173</NodePosY>
+     </Node>
+		<Node id="46">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>-179</NodePosX>
+         <NodePosY>-189</NodePosY>
+     </Node>
+		<Node id="47">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>111</NodePosX>
+         <NodePosY>-183</NodePosY>
+     </Node>
+		<Node id="48">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>137</NodePosX>
+         <NodePosY>-170</NodePosY>
+     </Node>
+		<Node id="49">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>172</NodePosX>
+         <NodePosY>-176</NodePosY>
+     </Node>
+		<Node id="50">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>160</NodePosX>
+         <NodePosY>-151</NodePosY>
+     </Node>
+		<Node id="51">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>109</NodePosX>
+         <NodePosY>-152</NodePosY>
+     </Node>
+		<Node id="52">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>145</NodePosX>
+         <NodePosY>-132</NodePosY>
+     </Node>
+		<Node id="53">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>195</NodePosX>
+         <NodePosY>-127</NodePosY>
+     </Node>
+		<Node id="54">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>103</NodePosX>
+         <NodePosY>-119</NodePosY>
+     </Node>
+		<Node id="55">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>159</NodePosX>
+         <NodePosY>-113</NodePosY>
+     </Node>
+		<Node id="56">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>126</NodePosX>
+         <NodePosY>-106</NodePosY>
+     </Node>
+		<Node id="57">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>197</NodePosX>
+         <NodePosY>-100</NodePosY>
+     </Node>
+		<Node id="58">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>114</NodePosX>
+         <NodePosY>-92</NodePosY>
+     </Node>
+		<Node id="59">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>151</NodePosX>
+         <NodePosY>-87</NodePosY>
+     </Node>
+		<Node id="60">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>181</NodePosX>
+         <NodePosY>-72</NodePosY>
+     </Node>
+		<Node id="61">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>121</NodePosX>
+         <NodePosY>-66</NodePosY>
+     </Node>
+     		<Node id="62">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>91</NodePosX>
+         <NodePosY>-71</NodePosY>
+     </Node>
+		<Node id="63">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>148</NodePosX>
+         <NodePosY>-57</NodePosY>
+     </Node>
+		<Node id="64">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>177</NodePosX>
+         <NodePosY>-49</NodePosY>
+     </Node>
+		<Node id="65">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>196</NodePosX>
+         <NodePosY>-41</NodePosY>
+     </Node>
+		<Node id="66">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>154</NodePosX>
+         <NodePosY>-38</NodePosY>
+     </Node>
+		<Node id="67">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>138</NodePosX>
+         <NodePosY>-38</NodePosY>
+     </Node>
+		<Node id="68">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>115</NodePosX>
+         <NodePosY>-27</NodePosY>
+     </Node>
+		<Node id="69">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>163</NodePosX>
+         <NodePosY>-26</NodePosY>
+     </Node>
+		<Node id="70">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>188</NodePosX>
+         <NodePosY>-24</NodePosY>
+     </Node>
+		<Node id="71">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>146</NodePosX>
+         <NodePosY>-11</NodePosY>
+     </Node>
+     		<Node id="72">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>177</NodePosX>
+         <NodePosY>-1</NodePosY>
+     </Node>
+		<Node id="73">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>159</NodePosX>
+         <NodePosY>1</NodePosY>
+     </Node>
+		<Node id="74">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>116</NodePosX>
+         <NodePosY>10</NodePosY>
+     </Node>
+		<Node id="75">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>136</NodePosX>
+         <NodePosY>14</NodePosY>
+     </Node>
+		<Node id="76">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>160</NodePosX>
+         <NodePosY>14</NodePosY>
+     </Node>
+		<Node id="77">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>188</NodePosX>
+         <NodePosY>16</NodePosY>
+     </Node>
+		<Node id="78">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>175</NodePosX>
+         <NodePosY>26</NodePosY>
+     </Node>
+		<Node id="79">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>146</NodePosX>
+         <NodePosY>31</NodePosY>
+     </Node>
+		<Node id="80">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>188</NodePosX>
+         <NodePosY>45</NodePosY>
+     </Node>
+		<Node id="81">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>86</NodePosX>
+         <NodePosY>40</NodePosY>
+     </Node>
+     		<Node id="82">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>111</NodePosX>
+         <NodePosY>47</NodePosY>
+     </Node>
+		<Node id="83">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>149</NodePosX>
+         <NodePosY>48</NodePosY>
+     </Node>
+		<Node id="84">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>130</NodePosX>
+         <NodePosY>59</NodePosY>
+     </Node>
+		<Node id="85">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>170</NodePosX>
+         <NodePosY>53</NodePosY>
+     </Node>
+		<Node id="86">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>179</NodePosX>
+         <NodePosY>79</NodePosY>
+     </Node>
+		<Node id="87">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>152</NodePosX>
+         <NodePosY>73</NodePosY>
+     </Node>
+		<Node id="88">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>115</NodePosX>
+         <NodePosY>82</NodePosY>
+     </Node>
+		<Node id="89">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>165</NodePosX>
+         <NodePosY>100</NodePosY>
+     </Node>
+		<Node id="90">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>137</NodePosX>
+         <NodePosY>102</NodePosY>
+     </Node>
+		<Node id="91">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>114</NodePosX>
+         <NodePosY>116</NodePosY>
+     </Node>
+     		<Node id="92">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>111</NodePosX>
+         <NodePosY>146</NodePosY>
+     </Node>
+		<Node id="93">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>151</NodePosX>
+         <NodePosY>123</NodePosY>
+     </Node>
+		<Node id="94">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>187</NodePosX>
+         <NodePosY>125</NodePosY>
+     </Node>
+		<Node id="95">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>169</NodePosX>
+         <NodePosY>147</NodePosY>
+     </Node>
+		<Node id="96">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>184</NodePosX>
+         <NodePosY>179</NodePosY>
+     </Node>
+		<Node id="97">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>156</NodePosX>
+         <NodePosY>166</NodePosY>
+     </Node>
+		<Node id="98">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>169</NodePosX>
+         <NodePosY>197</NodePosY>
+     </Node>
+		<Node id="99">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>117</NodePosX>
+         <NodePosY>180</NodePosY>
+     </Node>
+		<Node id="100">
+         <NodeType>Environmental</NodeType>
+         <NodePosX>86</NodePosX>
+         <NodePosY>180</NodePosY>
+     </Node>		
+		<Node id="101">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-20</NodePosX>
+         <NodePosY>191</NodePosY>
+     </Node>
+	 	<Node id="102">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-14</NodePosX>
+         <NodePosY>172</NodePosY>
+     </Node>
+		<Node id="103">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-45</NodePosX>
+         <NodePosY>177</NodePosY>
+     </Node>
+		<Node id="104">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-7</NodePosX>
+         <NodePosY>148</NodePosY>
+     </Node>
+		<Node id="105">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-19</NodePosX>
+         <NodePosY>145</NodePosY>
+     </Node>
+		<Node id="106">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-45</NodePosX>
+         <NodePosY>150</NodePosY>
+     </Node>
+		<Node id="107">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-64</NodePosX>
+         <NodePosY>144</NodePosY>
+     </Node>
+		<Node id="108">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-78</NodePosX>
+         <NodePosY>163</NodePosY>
+     </Node>
+		<Node id="109">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-73</NodePosX>
+         <NodePosY>189</NodePosY>
+     </Node>
+		<Node id="110">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-84</NodePosX>
+         <NodePosY>193</NodePosY>
+     </Node>
+	 	<Node id="111">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-103</NodePosX>
+         <NodePosY>181</NodePosY>
+     </Node>
+		<Node id="112">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-95</NodePosX>
+         <NodePosY>175</NodePosY>
+     </Node>
+		<Node id="113">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-117</NodePosX>
+         <NodePosY>160</NodePosY>
+     </Node>
+		<Node id="114">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-117</NodePosX>
+         <NodePosY>115</NodePosY>
+     </Node>
+		<Node id="115">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-98</NodePosX>
+         <NodePosY>117</NodePosY>
+     </Node>
+		<Node id="116">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-94</NodePosX>
+         <NodePosY>140</NodePosY>
+     </Node>
+		<Node id="117">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-45</NodePosX>
+         <NodePosY>105</NodePosY>
+     </Node>
+		<Node id="118">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-15</NodePosX>
+         <NodePosY>100</NodePosY>
+     </Node>
+		<Node id="119">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-90</NodePosX>
+         <NodePosY>86</NodePosY>
+     </Node>
+		<Node id="120">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-116</NodePosX>
+         <NodePosY>76</NodePosY>
+     </Node>
+		<Node id="121">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-124</NodePosX>
+         <NodePosY>35</NodePosY>
+     </Node>	 
+		<Node id="122">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-72</NodePosX>
+         <NodePosY>60</NodePosY>
+     </Node>
+		<Node id="123">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-52</NodePosX>
+         <NodePosY>33</NodePosY>
+     </Node>
+		<Node id="124">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-80</NodePosX>
+         <NodePosY>18</NodePosY>
+     </Node>
+		<Node id="125">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-122</NodePosX>
+         <NodePosY>-8</NodePosY>
+     </Node>
+		<Node id="126">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-97</NodePosX>
+         <NodePosY>-12</NodePosY>
+     </Node>
+		<Node id="127">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-87</NodePosX>
+         <NodePosY>-14</NodePosY>
+     </Node>
+		<Node id="128">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-130</NodePosX>
+         <NodePosY>-35</NodePosY>
+     </Node>
+		<Node id="129">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-85</NodePosX>
+         <NodePosY>-41</NodePosY>
+     </Node>
+		<Node id="130">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-68</NodePosX>
+         <NodePosY>-51</NodePosY>
+     </Node>
+		<Node id="131">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-90</NodePosX>
+         <NodePosY>-62</NodePosY>
+     </Node>
+	 	<Node id="132">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-119</NodePosX>
+         <NodePosY>-77</NodePosY>
+     </Node>
+		<Node id="133">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-72</NodePosX>
+         <NodePosY>-71</NodePosY>
+     </Node>
+		<Node id="134">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-44</NodePosX>
+         <NodePosY>-79</NodePosY>
+     </Node>
+		<Node id="135">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-29</NodePosX>
+         <NodePosY>-91</NodePosY>
+     </Node>
+		<Node id="136">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-15</NodePosX>
+         <NodePosY>-95</NodePosY>
+     </Node>
+		<Node id="137">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-51</NodePosX>
+         <NodePosY>-111</NodePosY>
+     </Node>
+		<Node id="138">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-68</NodePosX>
+         <NodePosY>-113</NodePosY>
+     </Node>
+		<Node id="139">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-86</NodePosX>
+         <NodePosY>-117</NodePosY>
+     </Node>
+		<Node id="140">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-88</NodePosX>
+         <NodePosY>-132</NodePosY>
+     </Node>
+		<Node id="141">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-119</NodePosX>
+         <NodePosY>-150</NodePosY>
+     </Node>
+	 	<Node id="142">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-65</NodePosX>
+         <NodePosY>-132</NodePosY>
+     </Node>
+		<Node id="143">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-49</NodePosX>
+         <NodePosY>-138</NodePosY>
+     </Node>
+		<Node id="144">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-85</NodePosX>
+         <NodePosY>-151</NodePosY>
+     </Node>
+		<Node id="145">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-85</NodePosX>
+         <NodePosY>-169</NodePosY>
+     </Node>
+		<Node id="146">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-68</NodePosX>
+         <NodePosY>-168</NodePosY>
+     </Node>
+		<Node id="147">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-45</NodePosX>
+         <NodePosY>-160</NodePosY>
+     </Node>
+		<Node id="148">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-10</NodePosX>
+         <NodePosY>-156</NodePosY>
+     </Node>
+		<Node id="149">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-62</NodePosX>
+         <NodePosY>-179</NodePosY>
+     </Node>
+		<Node id="150">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-27</NodePosX>
+         <NodePosY>-183</NodePosY>
+     </Node>
+		<Node id="151">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-4</NodePosX>
+         <NodePosY>-184</NodePosY>
+     </Node>
+	 	<Node id="152">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>-47</NodePosX>
+         <NodePosY>-193</NodePosY>
+     </Node>
+		<Node id="153">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>21</NodePosX>
+         <NodePosY>-178</NodePosY>
+     </Node>
+		<Node id="154">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>12</NodePosX>
+         <NodePosY>-164</NodePosY>
+     </Node>
+		<Node id="155">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>30</NodePosX>
+         <NodePosY>-148</NodePosY>
+     </Node>
+		<Node id="156">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>39</NodePosX>
+         <NodePosY>-125</NodePosY>
+     </Node>
+		<Node id="157">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>12</NodePosX>
+         <NodePosY>-117</NodePosY>
+     </Node>
+		<Node id="158">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>29</NodePosX>
+         <NodePosY>-97</NodePosY>
+     </Node>
+		<Node id="159">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>43</NodePosX>
+         <NodePosY>-100</NodePosY>
+     </Node>
+		<Node id="160">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>64</NodePosX>
+         <NodePosY>-87</NodePosY>
+     </Node>
+		<Node id="161">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>100</NodePosX>
+         <NodePosY>-99</NodePosY>
+     </Node>
+	 	<Node id="162">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>83</NodePosX>
+         <NodePosY>-59</NodePosY>
+     </Node>
+		<Node id="163">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>89</NodePosX>
+         <NodePosY>-43</NodePosY>
+     </Node>
+		<Node id="164">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>95</NodePosX>
+         <NodePosY>-25</NodePosY>
+     </Node>
+		<Node id="165">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>125</NodePosX>
+         <NodePosY>-55</NodePosY>
+     </Node>
+		<Node id="166">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>130</NodePosX>
+         <NodePosY>-14</NodePosY>
+     </Node>
+		<Node id="167">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>128</NodePosX>
+         <NodePosY>8</NodePosY>
+     </Node>
+		<Node id="168">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>125</NodePosX>
+         <NodePosY>23</NodePosY>
+     </Node>
+		<Node id="169">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>108</NodePosX>
+         <NodePosY>25</NodePosY>
+     </Node>
+		<Node id="170">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>97</NodePosX>
+         <NodePosY>36</NodePosY>
+     </Node>
+		<Node id="171">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>97</NodePosX>
+         <NodePosY>1</NodePosY>
+     </Node>
+	 	<Node id="172">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>125</NodePosX>
+         <NodePosY>41</NodePosY>
+     </Node>
+		<Node id="173">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>141</NodePosX>
+         <NodePosY>55</NodePosY>
+     </Node>
+		<Node id="174">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>137</NodePosX>
+         <NodePosY>76</NodePosY>
+     </Node>
+		<Node id="175">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>107</NodePosX>
+         <NodePosY>68</NodePosY>
+     </Node>
+		<Node id="176">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>85</NodePosX>
+         <NodePosY>68</NodePosY>
+     </Node>
+		<Node id="177">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>99</NodePosX>
+         <NodePosY>87</NodePosY>
+     </Node>
+		<Node id="178">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>134</NodePosX>
+         <NodePosY>89</NodePosY>
+     </Node>
+		<Node id="179">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>121</NodePosX>
+         <NodePosY>97</NodePosY>
+     </Node>
+		<Node id="180">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>109</NodePosX>
+         <NodePosY>108</NodePosY>
+     </Node>
+		<Node id="181">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>131</NodePosX>
+         <NodePosY>112</NodePosY>
+     </Node>
+	 	<Node id="182">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>127</NodePosX>
+         <NodePosY>123</NodePosY>
+     </Node>
+		<Node id="183">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>113</NodePosX>
+         <NodePosY>128</NodePosY>
+     </Node>
+		<Node id="184">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>91</NodePosX>
+         <NodePosY>132</NodePosY>
+     </Node>
+		<Node id="185">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>124</NodePosX>
+         <NodePosY>145</NodePosY>
+     </Node>
+		<Node id="186">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>90</NodePosX>
+         <NodePosY>152</NodePosY>
+     </Node>
+		<Node id="187">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>73</NodePosX>
+         <NodePosY>145</NodePosY>
+     </Node>
+		<Node id="188">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>72</NodePosX>
+         <NodePosY>161</NodePosY>
+     </Node>
+		<Node id="189">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>115</NodePosX>
+         <NodePosY>171</NodePosY>
+     </Node>
+		<Node id="190">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>132</NodePosX>
+         <NodePosY>174</NodePosY>
+     </Node>
+		<Node id="191">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>113</NodePosX>
+         <NodePosY>195</NodePosY>
+     </Node>
+	 	<Node id="192">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>106</NodePosX>
+         <NodePosY>185</NodePosY>
+     </Node>
+		<Node id="193">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>94</NodePosX>
+         <NodePosY>198</NodePosY>
+     </Node>
+		<Node id="194">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>76</NodePosX>
+         <NodePosY>183</NodePosY>
+     </Node>
+		<Node id="195">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>70</NodePosX>
+         <NodePosY>191</NodePosY>
+     </Node>
+		<Node id="196">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>61</NodePosX>
+         <NodePosY>177</NodePosY>
+     </Node>
+		<Node id="197">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>50</NodePosX>
+         <NodePosY>189</NodePosY>
+     </Node>
+		<Node id="198">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>40</NodePosX>
+         <NodePosY>179</NodePosY>
+     </Node>
+		<Node id="199">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>23</NodePosX>
+         <NodePosY>188</NodePosY>
+     </Node>
+		<Node id="200">
+         <NodeType>Pickup</NodeType>
+         <NodePosX>132</NodePosX>
+         <NodePosY>191</NodePosY>
+     </Node>
+		<Node id="201">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-17</NodePosX>
+         <NodePosY>189</NodePosY>
+     </Node>
+	 	<Node id="202">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-45</NodePosX>
+         <NodePosY>187</NodePosY>
+     </Node>
+		<Node id="203">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-70</NodePosX>
+         <NodePosY>198</NodePosY>
+     </Node>
+		<Node id="204">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-94</NodePosX>
+         <NodePosY>195</NodePosY>
+     </Node>
+		<Node id="205">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-79</NodePosX>
+         <NodePosY>177</NodePosY>
+     </Node>
+		<Node id="206">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-58</NodePosX>
+         <NodePosY>181</NodePosY>
+     </Node>
+		<Node id="207">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-30</NodePosX>
+         <NodePosY>170</NodePosY>
+     </Node>
+		<Node id="208">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-9</NodePosX>
+         <NodePosY>159</NodePosY>
+     </Node>
+		<Node id="209">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-25</NodePosX>
+         <NodePosY>154</NodePosY>
+     </Node>
+		<Node id="210">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-53</NodePosX>
+         <NodePosY>162</NodePosY>
+     </Node>
+		<Node id="211">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-73</NodePosX>
+         <NodePosY>157</NodePosY>
+     </Node>
+	 	<Node id="212">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-102</NodePosX>
+         <NodePosY>132</NodePosY>
+     </Node>
+		<Node id="213">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-73</NodePosX>
+         <NodePosY>136</NodePosY>
+     </Node>
+		<Node id="214">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-39</NodePosX>
+         <NodePosY>139</NodePosY>
+     </Node>
+		<Node id="215">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-5</NodePosX>
+         <NodePosY>139</NodePosY>
+     </Node>
+		<Node id="216">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-30</NodePosX>
+         <NodePosY>126</NodePosY>
+     </Node>
+		<Node id="217">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-56</NodePosX>
+         <NodePosY>127</NodePosY>
+     </Node>
+		<Node id="218">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-89</NodePosX>
+         <NodePosY>118</NodePosY>
+     </Node>
+		<Node id="219">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-63</NodePosX>
+         <NodePosY>105</NodePosY>
+     </Node>
+		<Node id="220">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-32</NodePosX>
+         <NodePosY>96</NodePosY>
+     </Node>
+		<Node id="221">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-1</NodePosX>
+         <NodePosY>77</NodePosY>
+     </Node>
+	 	<Node id="222">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-34</NodePosX>
+         <NodePosY>76</NodePosY>
+     </Node>
+		<Node id="223">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-64</NodePosX>
+         <NodePosY>75</NodePosY>
+     </Node>
+		<Node id="224">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-84</NodePosX>
+         <NodePosY>92</NodePosY>
+     </Node>
+		<Node id="225">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-90</NodePosX>
+         <NodePosY>32</NodePosY>
+     </Node>
+		<Node id="226">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-71</NodePosX>
+         <NodePosY>29</NodePosY>
+     </Node>
+		<Node id="227">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-90</NodePosX>
+         <NodePosY>14</NodePosY>
+     </Node>
+		<Node id="228">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-71</NodePosX>
+         <NodePosY>3</NodePosY>
+     </Node>
+		<Node id="229">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-70</NodePosX>
+         <NodePosY>-14</NodePosY>
+     </Node>
+		<Node id="230">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-88</NodePosX>
+         <NodePosY>-26</NodePosY>
+     </Node>
+		<Node id="231">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-69</NodePosX>
+         <NodePosY>-39</NodePosY>
+     </Node>
+	 	<Node id="232">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-54</NodePosX>
+         <NodePosY>-54</NodePosY>
+     </Node>
+		<Node id="233">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-83</NodePosX>
+         <NodePosY>-72</NodePosY>
+     </Node>
+		<Node id="234">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-78</NodePosX>
+         <NodePosY>-89</NodePosY>
+     </Node>
+		<Node id="235">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-63</NodePosX>
+         <NodePosY>-87</NodePosY>
+     </Node>
+		<Node id="236">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-30</NodePosX>
+         <NodePosY>-86</NodePosY>
+     </Node>
+		<Node id="237">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-25</NodePosX>
+          <NodePosY>-80</NodePosY>
+     </Node>
+		<Node id="238">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-29</NodePosX>
+         <NodePosY>-118</NodePosY>
+     </Node>
+		<Node id="239">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-23</NodePosX>
+         <NodePosY>-147</NodePosY>
+     </Node>
+		<Node id="240">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-16</NodePosX>
+         <NodePosY>-175</NodePosY>
+     </Node>
+		<Node id="241">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-30</NodePosX>
+         <NodePosY>-164</NodePosY>
+     </Node>
+	 	<Node id="242">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-57</NodePosX>
+         <NodePosY>-154</NodePosY>
+     </Node>
+		<Node id="243">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-73</NodePosX>
+         <NodePosY>-145</NodePosY>
+     </Node>
+		<Node id="244">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>-69</NodePosX>
+         <NodePosY>-186</NodePosY>
+     </Node>
+		<Node id="245">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>94</NodePosX>
+         <NodePosY>-189</NodePosY>
+     </Node>
+		<Node id="246">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>52</NodePosX>
+         <NodePosY>-189</NodePosY>
+     </Node>
+		<Node id="247">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>33</NodePosX>
+         <NodePosY>-175</NodePosY>
+     </Node>
+		<Node id="248">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>41</NodePosX>
+         <NodePosY>-157</NodePosY>
+     </Node>
+		<Node id="249">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>5</NodePosX>
+         <NodePosY>-148</NodePosY>
+     </Node>
+		<Node id="250">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>20</NodePosX>
+         <NodePosY>-131</NodePosY>
+     </Node>
+		<Node id="251">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>49</NodePosX>
+         <NodePosY>-133</NodePosY>
+     </Node>
+	 	<Node id="252">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>58</NodePosX>
+         <NodePosY>-154</NodePosY>
+     </Node>
+		<Node id="253">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>80</NodePosX>
+         <NodePosY>-147</NodePosY>
+     </Node>
+		<Node id="254">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>91</NodePosX>
+         <NodePosY>-136</NodePosY>
+     </Node>
+		<Node id="255">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>81</NodePosX>
+         <NodePosY>-118</NodePosY>
+     </Node>
+		<Node id="256">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>51</NodePosX>
+         <NodePosY>-111</NodePosY>
+     </Node>
+		<Node id="257">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>31</NodePosX>
+         <NodePosY>-115</NodePosY>
+     </Node>
+		<Node id="258">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>10</NodePosX>
+         <NodePosY>-103</NodePosY>
+     </Node>
+		<Node id="259">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>4</NodePosX>
+         <NodePosY>-86</NodePosY>
+     </Node>
+		<Node id="260">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>29</NodePosX>
+         <NodePosY>-83</NodePosY>
+     </Node>
+		<Node id="261">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>53</NodePosX>
+         <NodePosY>-93</NodePosY>
+     </Node>
+	 	<Node id="262">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>91</NodePosX>
+         <NodePosY>-90</NodePosY>
+     </Node>
+		<Node id="263">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>71</NodePosX>
+         <NodePosY>-80</NodePosY>
+     </Node>
+		<Node id="264">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>56</NodePosX>
+         <NodePosY>-71</NodePosY>
+     </Node>
+		<Node id="265">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>84</NodePosX>
+         <NodePosY>-42</NodePosY>
+     </Node>
+		<Node id="266">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>86</NodePosX>
+         <NodePosY>-23</NodePosY>
+     </Node>
+		<Node id="267">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>74</NodePosX>
+         <NodePosY>-18</NodePosY>
+     </Node>
+		<Node id="268">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>62</NodePosX>
+         <NodePosY>-10</NodePosY>
+     </Node>
+		<Node id="269">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>93</NodePosX>
+         <NodePosY>-8</NodePosY>
+     </Node>
+		<Node id="270">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>63</NodePosX>
+         <NodePosY>17</NodePosY>
+     </Node>
+		<Node id="271">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>85</NodePosX>
+         <NodePosY>35</NodePosY>
+     </Node>
+	 	<Node id="272">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>67</NodePosX>
+         <NodePosY>40</NodePosY>
+     </Node>
+		<Node id="273">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>59</NodePosX>
+         <NodePosY>62</NodePosY>
+     </Node>
+		<Node id="274">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>66</NodePosX>
+         <NodePosY>72</NodePosY>
+     </Node>
+		<Node id="275">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>46</NodePosX>
+         <NodePosY>77</NodePosY>
+     </Node>
+		<Node id="276">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>21</NodePosX>
+         <NodePosY>94</NodePosY>
+     </Node>
+		<Node id="277">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>29</NodePosX>
+         <NodePosY>104</NodePosY>
+     </Node>
+		<Node id="278">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>59</NodePosX>
+         <NodePosY>98</NodePosY>
+     </Node>
+		<Node id="279">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>92</NodePosX>
+         <NodePosY>98</NodePosY>
+     </Node>
+		<Node id="280">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>115</NodePosX>
+         <NodePosY>95</NodePosY>
+     </Node>
+		<Node id="281">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>56</NodePosX>
+         <NodePosY>117</NodePosY>
+     </Node>
+	 	<Node id="282">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>8</NodePosX>
+         <NodePosY>122</NodePosY>
+     </Node>
+		<Node id="283">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>4</NodePosX>
+         <NodePosY>131</NodePosY>
+     </Node>
+		<Node id="284">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>38</NodePosX>
+         <NodePosY>136</NodePosY>
+     </Node>
+		<Node id="285">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>87</NodePosX>
+         <NodePosY>142</NodePosY>
+     </Node>
+		<Node id="286">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>60</NodePosX>
+         <NodePosY>145</NodePosY>
+     </Node>
+		<Node id="287">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>40</NodePosX>
+         <NodePosY>153</NodePosY>
+     </Node>
+		<Node id="288">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>27</NodePosX>
+         <NodePosY>149</NodePosY>
+     </Node>
+		<Node id="289">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>7</NodePosX>
+         <NodePosY>156</NodePosY>
+     </Node>
+		<Node id="290">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>11</NodePosX>
+         <NodePosY>183</NodePosY>
+     </Node>
+		<Node id="291">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>19</NodePosX>
+         <NodePosY>174</NodePosY>
+     </Node>
+	 	<Node id="292">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>31</NodePosX>
+         <NodePosY>177</NodePosY>
+     </Node>
+		<Node id="293">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>41</NodePosX>
+         <NodePosY>195</NodePosY>
+     </Node>
+		<Node id="294">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>67</NodePosX>
+         <NodePosY>197</NodePosY>
+     </Node>
+		<Node id="295">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>88</NodePosX>
+         <NodePosY>194</NodePosY>
+     </Node>
+		<Node id="296">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>88</NodePosX>
+         <NodePosY>181</NodePosY>
+     </Node>
+		<Node id="297">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>72</NodePosX>
+         <NodePosY>173</NodePosY>
+     </Node>
+		<Node id="298">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>52</NodePosX>
+         <NodePosY>169</NodePosY>
+     </Node>
+		<Node id="299">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>85</NodePosX>
+         <NodePosY>162</NodePosY>
+     </Node>
+		<Node id="300">
+         <NodeType>Hostile</NodeType>
+         <NodePosX>108</NodePosX>
+         <NodePosY>158</NodePosY>
+     </Node>
+		s<Node id="301">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-186</NodePosX>
+         <NodePosY>189</NodePosY>
+     </Node>
+	 	<Node id="302">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-162</NodePosX>
+         <NodePosY>191</NodePosY>
+     </Node>
+		<Node id="303">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-151</NodePosX>
+         <NodePosY>187</NodePosY>
+     </Node>
+		<Node id="304">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-141</NodePosX>
+         <NodePosY>193</NodePosY>
+     </Node>
+		<Node id="305">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-124</NodePosX>
+         <NodePosY>191</NodePosY>
+     </Node>
+		<Node id="306">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-83</NodePosX>
+         <NodePosY>193</NodePosY>
+     </Node>
+		<Node id="307">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-93</NodePosX>
+         <NodePosY>174</NodePosY>
+     </Node>
+		<Node id="308">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-110</NodePosX>
+         <NodePosY>179</NodePosY>
+     </Node>
+		<Node id="309">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-146</NodePosX>
+         <NodePosY>173</NodePosY>
+     </Node>
+		<Node id="310">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-175</NodePosX>
+         <NodePosY>169</NodePosY>
+     </Node>
+		<Node id="311">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-187</NodePosX>
+         <NodePosY>162</NodePosY>
+     </Node>
+	 	<Node id="312">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-164</NodePosX>
+         <NodePosY>158</NodePosY>
+     </Node>
+		<Node id="313">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-110</NodePosX>
+         <NodePosY>151</NodePosY>
+     </Node>
+		<Node id="314">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-130</NodePosX>
+         <NodePosY>138</NodePosY>
+     </Node>
+		<Node id="315">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-142</NodePosX>
+         <NodePosY>138</NodePosY>
+     </Node>
+		<Node id="316">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-164</NodePosX>
+         <NodePosY>140</NodePosY>
+     </Node>
+		<Node id="317">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-181</NodePosX>
+         <NodePosY>137</NodePosY>
+     </Node>
+		<Node id="318">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-188</NodePosX>
+         <NodePosY>125</NodePosY>
+     </Node>
+		<Node id="319">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-185</NodePosX>
+         <NodePosY>110</NodePosY>
+     </Node>
+		<Node id="320">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-160</NodePosX>
+         <NodePosY>120</NodePosY>
+     </Node>
+		<Node id="321">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-121</NodePosX>
+         <NodePosY>105</NodePosY>
+     </Node>
+	 	<Node id="322">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-148</NodePosX>
+         <NodePosY>98</NodePosY>
+     </Node>
+		<Node id="323">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-158</NodePosX>
+         <NodePosY>93</NodePosY>
+     </Node>
+		<Node id="324">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-191</NodePosX>
+         <NodePosY>81</NodePosY>
+     </Node>
+		<Node id="325">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-184</NodePosX>
+         <NodePosY>64</NodePosY>
+     </Node>
+		<Node id="326">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-158</NodePosX>
+         <NodePosY>74</NodePosY>
+     </Node>
+		<Node id="327">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-128</NodePosX>
+         <NodePosY>55</NodePosY>
+     </Node>
+		<Node id="328">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-169</NodePosX>
+         <NodePosY>49</NodePosY>
+     </Node>
+		<Node id="329">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-167</NodePosX>
+         <NodePosY>25</NodePosY>
+     </Node>
+		<Node id="330">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-152</NodePosX>
+         <NodePosY>14</NodePosY>
+     </Node>
+		<Node id="331">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-115</NodePosX>
+         <NodePosY>1</NodePosY>
+     </Node>
+	 	<Node id="332">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-184</NodePosX>
+         <NodePosY>-2</NodePosY>
+     </Node>
+		<Node id="333">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-146</NodePosX>
+         <NodePosY>-12</NodePosY>
+     </Node>
+		<Node id="334">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-191</NodePosX>
+         <NodePosY>-22</NodePosY>
+     </Node>
+		<Node id="335">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-139</NodePosX>
+         <NodePosY>-25</NodePosY>
+     </Node>
+		<Node id="336">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-154</NodePosX>
+         <NodePosY>-31</NodePosY>
+     </Node>
+		<Node id="337">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-164</NodePosX>
+         <NodePosY>-44</NodePosY>
+     </Node>
+		<Node id="338">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-183</NodePosX>
+         <NodePosY>-45</NodePosY>
+     </Node>
+		<Node id="339">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-165</NodePosX>
+         <NodePosY>-58</NodePosY>
+     </Node>
+		<Node id="340">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-146</NodePosX>
+         <NodePosY>-56</NodePosY>
+     </Node>
+		<Node id="341">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-188</NodePosX>
+         <NodePosY>-78</NodePosY>
+     </Node>
+	 	<Node id="342">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-156</NodePosX>
+         <NodePosY>-88</NodePosY>
+     </Node>
+		<Node id="343">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-134</NodePosX>
+         <NodePosY>-82</NodePosY>
+     </Node>
+		<Node id="344">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-150</NodePosX>
+         <NodePosY>-99</NodePosY>
+     </Node>
+		<Node id="345">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-187</NodePosX>
+         <NodePosY>-109</NodePosY>
+     </Node>
+		<Node id="346">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-173</NodePosX>
+         <NodePosY>-121</NodePosY>
+     </Node>
+		<Node id="347">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-132</NodePosX>
+         <NodePosY>-123</NodePosY>
+     </Node>
+		<Node id="348">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-95</NodePosX>
+         <NodePosY>-138</NodePosY>
+     </Node>
+		<Node id="349">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-116</NodePosX>
+         <NodePosY>-143</NodePosY>
+     </Node>
+		<Node id="350">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-158</NodePosX>
+         <NodePosY>-145</NodePosY>
+     </Node>
+		<Node id="351">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-194</NodePosX>
+         <NodePosY>-146</NodePosY>
+     </Node>
+	 	<Node id="352">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-178</NodePosX>
+         <NodePosY>-160</NodePosY>
+     </Node>
+		<Node id="353">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-190</NodePosX>
+         <NodePosY>-180</NodePosY>
+     </Node>
+		<Node id="354">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-167</NodePosX>
+         <NodePosY>-188</NodePosY>
+     </Node>
+		<Node id="355">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-146</NodePosX>
+         <NodePosY>-167</NodePosY>
+     </Node>
+		<Node id="356">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-124</NodePosX>
+         <NodePosY>-162</NodePosY>
+     </Node>
+		<Node id="357">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-132</NodePosX>
+         <NodePosY>-187</NodePosY>
+     </Node>
+		<Node id="358">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-86</NodePosX>
+         <NodePosY>-187</NodePosY>
+     </Node>
+		<Node id="359">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>-18</NodePosX>
+         <NodePosY>-189</NodePosY>
+     </Node>
+		<Node id="360">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>86</NodePosX>
+         <NodePosY>-182</NodePosY>
+     </Node>
+		<Node id="361">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>115</NodePosX>
+         <NodePosY>-179</NodePosY>
+     </Node>
+	 	<Node id="362">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>147</NodePosX>
+         <NodePosY>-192</NodePosY>
+     </Node>
+		<Node id="363">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>173</NodePosX>
+         <NodePosY>-195</NodePosY>
+     </Node>
+		<Node id="364">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>187</NodePosX>
+         <NodePosY>-171</NodePosY>
+     </Node>
+		<Node id="365">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>152</NodePosX>
+         <NodePosY>-161</NodePosY>
+     </Node>
+		<Node id="366">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>127</NodePosX>
+         <NodePosY>-148</NodePosY>
+     </Node>
+		<Node id="367">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>174</NodePosX>
+         <NodePosY>-148</NodePosY>
+     </Node>
+		<Node id="368">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>179</NodePosX>
+         <NodePosY>-124</NodePosY>
+     </Node>
+		<Node id="369">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>133</NodePosX>
+         <NodePosY>-125</NodePosY>
+     </Node>
+		<Node id="370">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>144</NodePosX>
+         <NodePosY>-105</NodePosY>
+     </Node>
+		<Node id="371">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>176</NodePosX>
+         <NodePosY>-94</NodePosY>
+     </Node>
+	 	<Node id="372">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>101</NodePosX>
+         <NodePosY>-56</NodePosY>
+     </Node>
+		<Node id="373">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>146</NodePosX>
+         <NodePosY>-28</NodePosY>
+     </Node>
+		<Node id="374">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>178</NodePosX>
+         <NodePosY>-19</NodePosY>
+     </Node>
+		<Node id="375">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>134</NodePosX>
+         <NodePosY>-8</NodePosY>
+     </Node>
+		<Node id="376">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>108</NodePosX>
+         <NodePosY>-11</NodePosY>
+     </Node>
+		<Node id="377">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>103</NodePosX>
+         <NodePosY>-2</NodePosY>
+     </Node>
+		<Node id="378">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>169</NodePosX>
+         <NodePosY>18</NodePosY>
+     </Node>
+		<Node id="379">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>154</NodePosX>
+         <NodePosY>31</NodePosY>
+     </Node>
+		<Node id="380">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>162</NodePosX>
+         <NodePosY>39</NodePosY>
+     </Node>
+		<Node id="381">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>179</NodePosX>
+         <NodePosY>37</NodePosY>
+     </Node>
+	 	<Node id="382">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>173</NodePosX>
+         <NodePosY>59</NodePosY>
+     </Node>
+		<Node id="383">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>194</NodePosX>
+         <NodePosY>66</NodePosY>
+     </Node>
+		<Node id="384">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>155</NodePosX>
+         <NodePosY>76</NodePosY>
+     </Node>
+		<Node id="385">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>178</NodePosX>
+         <NodePosY>96</NodePosY>
+     </Node>
+		<Node id="386">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>193</NodePosX>
+         <NodePosY>101</NodePosY>
+     </Node>
+		<Node id="387">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>149</NodePosX>
+         <NodePosY>112</NodePosY>
+     </Node>
+		<Node id="388">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>136</NodePosX>
+         <NodePosY>124</NodePosY>
+     </Node>
+		<Node id="389">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>175</NodePosX>
+         <NodePosY>123</NodePosY>
+     </Node>
+		<Node id="390">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>194</NodePosX>
+         <NodePosY>137</NodePosY>
+     </Node>
+		<Node id="391">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>179</NodePosX>
+         <NodePosY>148</NodePosY>
+     </Node>
+	 	<Node id="392">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>164</NodePosX>
+         <NodePosY>160</NodePosY>
+     </Node>
+		<Node id="393">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>134</NodePosX>
+         <NodePosY>165</NodePosY>
+     </Node>
+		<Node id="394">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>154</NodePosX>
+         <NodePosY>178</NodePosY>
+     </Node>
+		<Node id="395">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>164</NodePosX>
+         <NodePosY>178</NodePosY>
+     </Node>
+		<Node id="396">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>197</NodePosX>
+         <NodePosY>183</NodePosY>
+     </Node>
+		<Node id="397">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>189</NodePosX>
+         <NodePosY>197</NodePosY>
+     </Node>
+		<Node id="398">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>144</NodePosX>
+         <NodePosY>191</NodePosY>
+     </Node>
+		<Node id="399">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>95</NodePosX>
+         <NodePosY>192</NodePosY>
+     </Node>
+		<Node id="400">
+         <NodeType>Treasure</NodeType>
+         <NodePosX>53</NodePosX>
+         <NodePosY>193</NodePosY>
+     </Node>
+</MapNodes>

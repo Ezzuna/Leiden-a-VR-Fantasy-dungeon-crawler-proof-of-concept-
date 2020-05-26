@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: 91c75da7f412629459be5a9f0e99bb5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 738150363416398848
+    second: gui_wizard_back_0
+  - first:
+      213: 1387105525738694074
+    second: gui_wizard_back_1
+  - first:
+      213: 6953819438705013820
+    second: gui_wizard_back_2
+  - first:
+      213: -2879570163287999994
+    second: gui_wizard_back_3
+  - first:
+      213: -5151299647487640495
+    second: gui_wizard_back_4
+  - first:
+      213: 613070315542512024
+    second: gui_wizard_back_5
+  - first:
+      213: 4101070609239593207
+    second: gui_wizard_back_6
+  - first:
+      213: 1734744453298019545
+    second: gui_wizard_back_7
+  - first:
+      213: 3181669763575761769
+    second: gui_wizard_back_8
+  - first:
+      213: 3126346843399752495
+    second: gui_wizard_back_9
+  - first:
+      213: -4191036627280783144
+    second: gui_wizard_back_10
+  - first:
+      213: 2423812398446313355
+    second: gui_wizard_back_11
+  - first:
+      213: 2780684306190748222
+    second: gui_wizard_back_12
+  - first:
+      213: -182634455551531190
+    second: gui_wizard_back_13
+  - first:
+      213: -251605009883995652
+    second: gui_wizard_back_14
+  - first:
+      213: 8685253439093384926
+    second: gui_wizard_back_15
+  - first:
+      213: 7092533149996129655
+    second: gui_wizard_back_16
+  - first:
+      213: 5020514915612959191
+    second: gui_wizard_back_17
+  - first:
+      213: 293912622491686319
+    second: gui_wizard_back_18
+  - first:
+      213: 4323846243191864625
+    second: gui_wizard_back_19
+  - first:
+      213: 6297732792193911868
+    second: gui_wizard_back_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_wizard_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 322
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e36a5fe127de649b0caaf97436aa42
+      internalID: 738150363416398848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddeadc527057d4469e5252598f1f246
+      internalID: 1387105525738694074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 237
+        width: 86
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b28e95dc0d432e4b9e71eb2ccb1e351
+      internalID: 6953819438705013820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 239
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc95165bf513cc04c9eed72f12d5fa1f
+      internalID: -2879570163287999994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 207
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b5c756cc4f4546a6f001a90557f22
+      internalID: -5151299647487640495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 208
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432304d66326c054c9baa0adadb7a58a
+      internalID: 613070315542512024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f84db9b8db06374f82bc1835c4c59c5
+      internalID: 4101070609239593207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 177
+        width: 106
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd655459d7a30a9469791a0b4ad0db42
+      internalID: 1734744453298019545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 85
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37899fa7242cb5145b05b41112dff974
+      internalID: 3181669763575761769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0435678bfb0064642aa682bdbb4a3e53
+      internalID: 3126346843399752495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 61
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f032ed9a3030a742bb745362089c456
+      internalID: -4191036627280783144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 108
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed1de3e5ab0014582c93b7e5a5936b
+      internalID: 2423812398446313355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec440e84c815f42b1541e427c2814e
+      internalID: 2780684306190748222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 88
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b55e1c0944ce439c02c44ea85a4f6
+      internalID: -182634455551531190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 192
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b6a6d0eb407a49b8278791237107e
+      internalID: -251605009883995652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 170
+        width: 73
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488127fd71296b428d208b10830850c
+      internalID: 8685253439093384926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 157
+        width: 101
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f526c2a40f3843a821185147cf9c1
+      internalID: 7092533149996129655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 127
+        width: 139
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc6ab544a46a54eadfac7491121436
+      internalID: 5020514915612959191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_18
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 60
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab195e4bf08c87147a246cee5e7dc83a
+      internalID: 293912622491686319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 61
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63aa3e74f1bb334ab45bbbad536dd7b
+      internalID: 4323846243191864625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gui_wizard_back_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 127
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f679cd1eeaed543a5874f00321afb0
+      internalID: 6297732792193911868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a03a3e125e86ec54bac4d2d51cdbce0d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
